@@ -24,7 +24,7 @@ Interesse principal em **Data Science**, **Machine Learning** e **engenharia de 
 ## Habilidades Técnicas
 
 **Banco de Dados & Dados**  
-`SQL Server` `T-SQL / PL-SQL` `SSIS` `ETL` `Snowflake`
+`SQL Server` `T-SQL / PL-SQL` `SSIS` `ETL` 
 
 **Computação & Redes**  
 `Redes de Computadores` `Protocolos de Rede` `Segurança Cibernética`
